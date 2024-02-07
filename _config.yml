@@ -21,4 +21,4 @@ navbar:
  - name: "About"
    link: "about"
  - name: "Resume"
-   absolute-link: "Users/ojeunghun/git_blog/jeunghun-0.github.io/assets/jeunghun_oh_cv.pdf"
+   absolute-link: "https://jeunghun-0.github.io/assets/jeunghun_oh_cv.pdf"
