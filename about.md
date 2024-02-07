@@ -5,21 +5,11 @@ title: About Me
 
 <!-- <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}"> -->
 
-I'm Jeunghun Oh. I've been
+Hi, I'm Jeunghun Oh. I'm a Bayesian and a Ph.D. student at the Department of Statistics in Seoul National University. My areas of interests are Bayesian nonparametric function estimation and posterior concentration theories on Bayesian statistcal models.
 
-
-
-### Life Advice
-Here are a few things I've learned over the years,
-> An optimist is simply a pessimist with no job experience.
-
-> All of your co-workers are fools. You must learn to pity and tolerate them.
-
-> There are very few problems that can't be solved through a suitable application of high explosives.
-
-### Publications
-1. Dilbert, Ratbert: "Effects of having a dog and a dinasaur in the same house", _Journal of Wierd Studies_
-2. Alice, Dilbert, Wally: "Efficient ways to deal with a dumb manager", _Conference of Frustrated Engineers_
+In my leisurely hours, I read science fictions (mostly), practice boxing or study math.
 
 ### Contact Me
-
+* Location: 1 Gwanak-Ro, Gwanak-Gu, Seoul, Republic of Korea
+* Email: pronesis24@gmail.com
+* Telephone: (+82)-2-880-8138
