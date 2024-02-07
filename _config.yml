@@ -20,5 +20,5 @@ sass:
 navbar:
  - name: "About"
    link: "about"
- - name: "Resume"
+ - name: "CV"
    absolute-link: "https://jeunghun-0.github.io/assets/jeunghun_oh_cv.pdf"
